@@ -1,5 +1,4 @@
 {
-  "extends": "../../../../../../tsconfig.json",
   "compilerOptions": {
     "rootDir": "./src",
     "outDir": "../../../../../../Scenarios/localhost/tla/EAM/Once/UcpComponent/main",
